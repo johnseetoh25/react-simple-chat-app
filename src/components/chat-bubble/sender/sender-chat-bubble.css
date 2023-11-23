@@ -1,0 +1,12 @@
+.sender-chat-bubble-layout{
+    display: flex;
+    gap: 10px;
+    flex-direction: row-reverse;
+}
+
+.sender-chat-bubble{
+    border: 2px solid orange;
+    padding: 10px;
+    margin: 20px 0px 0px 0px;
+    border-radius: 20px 0px 20px 20px;
+}

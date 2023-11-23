@@ -1,0 +1,5 @@
+.chat-contents{
+    height: 70vh;
+    overflow-y: scroll;
+    display: block;
+}

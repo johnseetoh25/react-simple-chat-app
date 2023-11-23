@@ -1,0 +1,12 @@
+.chat-insert-layout{
+    display: grid;
+    grid-template-columns: 2fr 100px ;
+    gap: 10px;
+    padding: 0px 20px;
+}
+
+@media screen and (max-width: 500px){
+    .chat-insert-layout{
+        grid-template-columns: 4fr 40px;
+    }
+}
